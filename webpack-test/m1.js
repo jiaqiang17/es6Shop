@@ -1,1 +1,1 @@
-alert(m1);
+alert(11);

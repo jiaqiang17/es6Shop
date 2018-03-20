@@ -1,0 +1,10 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "",
+  "auther": "jq",
+  "devDependencies": {
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12"
+  }
+}
